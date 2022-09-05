@@ -1,0 +1,9 @@
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.csprojAssemblyReference.cache
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.AssemblyInfoInputs.cache
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.AssemblyInfo.cs
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.csproj.CoreCompileInputs.cache
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.deps.json
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.dll
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.pdb
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.dll
+C:\Users\E009146\RootFolder\SwagLabDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.pdb
